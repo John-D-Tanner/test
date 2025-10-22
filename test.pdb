@@ -1,0 +1,17 @@
+TITLE   R1AB_WCPV Non-structural protein 2                                      \n
+#     REVDAT   1   4-AUG-20 MOD1    0                                                \n
+#     REMARK   1 CITATION                                                             \n
+#     REMARK   1 understanding of SARS-CoV-2.                                         \n
+#     MODEL        0\nATOM      1  N   ALA A   1      30.538  -7.656 -32.736  1.00  2.00          N   \n
+#     ATOM      2  CA  ALA A   1      30.329  -6.971 -31.447  1.00  2.00          C   \n
+#     ATOM      3  C   ALA A   1      28.828  -6.858 -31.222  1.00  2.00          C   \n
+#     ATOM      4  CB  ALA A   1      31.005  -5.595 -31.470  1.00  2.00          C   \n
+#     ATOM      5  O   ALA A   1      28.109  -6.779 -32.211  1.00  2.00          O   \n
+#     ATOM      6  N   TYR A   2      28.349  -6.913 -29.981  1.00  1.00          N   \n
+#     ATOM      7  CA  TYR A   2      26.954  -6.571 -29.681  1.00  1.00          C   \n
+#     ATOM      8  C   TYR A   2      26.877  -5.107 -29.237  1.00  1.00          C   \n
+#     ATOM      9  CB  TYR A   2      26.361  -7.546 -28.652  1.00  1.00          C   \n
+#     ATOM     10  O   TYR A   2      27.854  -4.566 -28.712  1.00  1.00          O   \n
+#     ATOM     11  CG  TYR A   2      27.000  -7.487 -27.278  1.00  1.00          C   \n
+#     ATOM     12  CD1 TYR A   2      26.456  -6.642 -26.290  1.00  1.00          C   \n
+# \nTER ENDMDL\nEND\n
